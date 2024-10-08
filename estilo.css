@@ -1,0 +1,127 @@
+body {
+
+    background-color: rgba(6, 33, 92, 0.986);
+    font-family: Arial, sans-serif;
+
+}
+
+
+a {
+    color: white;
+    /* Cor do link não visitado */
+    text-decoration: none;
+    /* Remove o sublinhado */
+}
+
+a:visited {
+    color: white;
+    /* Cor do link visitado */
+}
+
+
+h1 {
+    color: #0a1e58;
+    font-size: 40px;
+    /* Tamanho da fonte */
+    font-weight: bold;
+    /* Negrito */
+    margin: 10px 0;
+    /* Margem superior e inferior */
+    padding-top: 30px;
+    text-align: center;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+h2 {
+    width: 1300px;
+    /* Defina a largura desejada */
+    margin: 20px auto;
+    /* Centraliza horizontalmente e dá um espaço em cima */
+    text-align: center;
+    /* Centraliza o texto dentro da div */
+    padding: 0px;
+    /* Espaçamento interno opcional */
+    text-align: center;
+    color: rgb(228, 219, 219);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+
+h3 {
+    color: #040505;
+    /* Altera a cor do texto */
+    font-size: 26px;
+    /* Tamanho da fonte */
+    font-weight: bold;
+    /* Negrito */
+    text-align: center;
+    display: inline-block;
+    width: 300px;
+
+}
+
+h4 {
+    text-align: center;
+    color: antiquewhite;
+    margin: 0 auto;
+    padding: 10px;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+
+}
+
+h5 {
+    background-color: #f3f3f5;
+    color: rgb(12, 25, 143);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    top: 30%;
+    left: 30%;
+}
+
+.Intro {
+    background-color: rgb(230, 231, 238);
+    margin-top: 2%;
+}
+
+
+.Animais {
+    font-size: 20px;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.infoanimal {
+    top: 20%;
+    left: 1%;
+
+}
+
+.imagem1 {
+    text-align: center;
+    height: 70%;
+    margin-top: 2%;
+}
+
+.imagem2 {
+
+    text-align: center;
+    margin-top: 3%;
+    height: auto;
+
+
+}
+
+.tituloanimal {
+    background-color: rgb(230, 231, 238);
+    margin-top: 2%;
+    text-align: center;
+}
